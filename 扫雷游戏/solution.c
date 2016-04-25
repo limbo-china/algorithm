@@ -3,7 +3,7 @@
  #include "time.h"
  
  #define random(x) (rand()%x)
- #define N 3
+ #define N 101
  #define P 4
  int Matrix[N][N];
  int NumMat[N][N];
